@@ -26,6 +26,6 @@ Aquí ya realicé varios cambios en GitHub.
 
 ## 👤 Sobre mí
 Nombre: Sofía Peñaherrera
-Curso: DP 1 C
+Curso: DP 1   C
 
-31/03/2026        12:31
+31-03-2026        12h31
